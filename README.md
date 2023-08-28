@@ -16,3 +16,10 @@ mvn clean install -pl api -am
 
 ### 2. 전이 의존성, 추이 의존성에 대하여
 - https://mangkyu.tistory.com/296
+
+### reference 
+
+- https://spring.io/guides/gs/multi-module/
+- https://techblog.woowahan.com/2637/
+- https://wildeveloperetrain.tistory.com/183
+- https://github.com/dding94/youthcon23
