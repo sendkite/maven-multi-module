@@ -12,3 +12,7 @@ mvn clean install -pl api -am
 
 ```
 ![스크린샷 2023-08-28 오후 11 58 20](https://github.com/sendkite/maven-multi-module/assets/90877864/03574c21-c697-459a-a932-f34b8b6f0a39)
+
+
+### 2. 전이 의존성, 추이 의존성에 대하여
+- https://mangkyu.tistory.com/296
